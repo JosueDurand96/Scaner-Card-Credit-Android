@@ -1,1 +1,3 @@
-# Scaner-Card-Credit-Android
+# Scanner Card Credit - Android
+
+![](scanner-card.gif)
